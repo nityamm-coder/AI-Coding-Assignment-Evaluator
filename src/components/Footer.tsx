@@ -47,6 +47,9 @@ export function Footer() {
 
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-slate-200/60">
+          <p className="text-center text-sm text-slate-500">
+            Made by <span className="font-semibold text-slate-700">Nityam Mishra</span>
+          </p>
         </div>
       </div>
     </footer>
