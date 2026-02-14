@@ -5,7 +5,7 @@ export function Footer() {
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           {/* About */}
           <div>
-            <h3 className="font-bold text-slate-900 mb-4">CodeEval AI</h3>
+            <h3 className="font-bold text-slate-900 mb-4">CodeAssess</h3>
             <p className="text-sm text-slate-600 leading-relaxed">
               Next-generation code assessment platform powered by advanced AI algorithms.
             </p>

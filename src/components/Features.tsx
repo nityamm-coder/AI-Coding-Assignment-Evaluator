@@ -45,7 +45,7 @@ export function Features() {
           {/* Section Header */}
           <div className="text-center mb-12">
             <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-4">
-              Why Choose <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">CodeEval AI?</span>
+              Why Choose <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">CodeAssess?</span>
             </h2>
             <p className="text-lg text-slate-600 max-w-2xl mx-auto">
               Revolutionize your code review process with intelligent, automated evaluation
@@ -75,7 +75,7 @@ export function Features() {
                 Ready to Level Up Your Code Review?
               </h3>
               <p className="text-slate-600 mb-6">
-                Join thousands of developers and educators using CodeEval AI
+                Join thousands of developers and educators using CodeAssess
               </p>
               <div className="flex flex-wrap gap-3 justify-center">
                 <span className="px-4 py-2 rounded-full bg-white border border-slate-200 text-sm font-semibold text-slate-700">
