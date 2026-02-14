@@ -1,8 +1,8 @@
-# 🚀 CodeEval AI - Intelligent Code Assessment Platform
+# **CodeAssess - Intelligent Code Assessment Platform**
 
 An AI-powered coding assignment evaluator that goes beyond just test cases to provide comprehensive, multi-dimensional code analysis.
 
-## Project LINK: [AI-Coding-Assessement](https://ai-coding-assignment-evaluator-production.up.railway.app/) <br>
+## Project LINK: [*AI-Coding-Assessement*](https://ai-coding-assignment-evaluator-production.up.railway.app/) <br>
 Deployed on Railway free service platform
 
 ## ✨ Features
