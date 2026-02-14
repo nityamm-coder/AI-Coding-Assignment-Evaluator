@@ -36,26 +36,6 @@ export function Hero() {
             <span className="font-semibold text-purple-600"> readability</span>, and more. 
             Get instant, actionable feedback that helps you write better code.
           </p>
-          
-          {/* Stats */}
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 max-w-3xl mx-auto mb-12">
-            <div className="rounded-2xl bg-white/60 backdrop-blur-sm border border-slate-200/60 p-4 shadow-sm hover:shadow-md transition-all">
-              <div className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">6</div>
-              <div className="text-sm text-slate-600 mt-1">Metrics</div>
-            </div>
-            <div className="rounded-2xl bg-white/60 backdrop-blur-sm border border-slate-200/60 p-4 shadow-sm hover:shadow-md transition-all">
-              <div className="text-3xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">100%</div>
-              <div className="text-sm text-slate-600 mt-1">Automated</div>
-            </div>
-            <div className="rounded-2xl bg-white/60 backdrop-blur-sm border border-slate-200/60 p-4 shadow-sm hover:shadow-md transition-all">
-              <div className="text-3xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">&lt;2s</div>
-              <div className="text-sm text-slate-600 mt-1">Analysis</div>
-            </div>
-            <div className="rounded-2xl bg-white/60 backdrop-blur-sm border border-slate-200/60 p-4 shadow-sm hover:shadow-md transition-all">
-              <div className="text-3xl font-bold bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent">∞</div>
-              <div className="text-sm text-slate-600 mt-1">Scalable</div>
-            </div>
-          </div>
         </div>
       </div>
     </section>
