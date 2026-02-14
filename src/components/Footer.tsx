@@ -47,19 +47,6 @@ export function Footer() {
 
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-slate-200/60">
-          
-          {/* Deployment Info */}
-          <div className="mt-6 text-center">
-            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-green-50 to-emerald-50 border border-green-200/60">
-              <span className="relative flex h-2 w-2">
-                <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-400 opacity-75"></span>
-                <span className="relative inline-flex h-2 w-2 rounded-full bg-green-500"></span>
-              </span>
-              <span className="text-xs font-semibold text-green-700">
-                Ready for Railway Deployment • Free Tier Compatible
-              </span>
-            </div>
-          </div>
         </div>
       </div>
     </footer>
