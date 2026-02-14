@@ -48,9 +48,6 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-slate-200/60">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-            <p className="text-sm text-slate-600">
-              © 2024 CodeEval AI. Built for developers, by developers.
-            </p>
             <div className="flex items-center gap-6">
               <a href="#" className="text-sm text-slate-600 hover:text-indigo-600 transition-colors">
                 Documentation
