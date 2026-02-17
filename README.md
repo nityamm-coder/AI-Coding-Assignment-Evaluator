@@ -75,12 +75,6 @@ Deployed on Railway free service platform
 - ✅ Learn best practices
 - ✅ Improve before submission
 
-### For Educators
-- ✅ Automated grading at scale
-- ✅ Consistent evaluation standards
-- ✅ Detailed feedback generation
-- ✅ Time saved on manual review
-
 ### For Recruiters
 - ✅ Fair candidate assessment
 - ✅ Objective scoring metrics
