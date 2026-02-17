@@ -5,8 +5,6 @@ An AI-powered coding assignment evaluator that goes beyond just test cases to pr
 ### Project LINK: [*AI-Coding-Assessement*](https://ai-coding-assignment-evaluator-production.up.railway.app/) <br>
 Deployed on Railway free service platform
 
-### DEMO LINK (G-Drive): https://drive.google.com/file/d/18NlwbJsCVF9X72L_-XEITuRJ3oGzRa4g/view?usp=sharing
-
 ## ✨ Features
 
 ### 🎯 Multi-Dimensional Evaluation
